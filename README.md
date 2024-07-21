@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mehak Jabeen
+- 👀 I’m interested in Programming & Problem Solving 
+- 🌱 I’m currently learning Front End Development
+- 📫 How to reach me mehakjabeen023@gmail.com
