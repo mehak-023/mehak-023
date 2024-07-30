@@ -1,5 +1,3 @@
-#StandWithPalestine
-
 <h2 align="center" class="heading-element" dir="auto">👋 Hey, I’m Mehak Jabeen </h2><hr>
 <h3 align="center" class="heading-element" dir="auto">A passionate frontend developer from Pakistan</h3>
 
