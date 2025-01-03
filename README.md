@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Programming & Problem Solving 
 - 🌱 I’m currently learning Front End Development
-- 📫 How to reach me mehakjabeen023@gmail.com
+- 📫 How to reach me jabeenm762@gmail.com
 
 
 
